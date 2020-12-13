@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193896993400",
+    "firebase_url": "https://jewelry-f73bb.firebaseio.com",
+    "project_id": "jewelry-f73bb",
+    "storage_bucket": "jewelry-f73bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193896993400:android:e2114f9736f54789eb538d",
+        "android_client_info": {
+          "package_name": "com.tina.snehal_gems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193896993400-80ncln58oidss1e9nt775ps75fgbsmac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tina.snehal_gems",
+            "certificate_hash": "2f61421061f9a4892c2aa91a51fd2ab94f170fd8"
+          }
+        },
+        {
+          "client_id": "193896993400-966hgrb26doj3pcnvgggslhrn8b0dv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpCdhI5t4_GMlYysG6VzMvDf_KTwH1xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193896993400-966hgrb26doj3pcnvgggslhrn8b0dv4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
